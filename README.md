@@ -1,7 +1,7 @@
 <h2 align="centre"> demonplayer</h2>
 
  
-<p align="center"><a href="https://t.me/Superior_Bots"><img src="https://telegra.ph/file/a7a096c75c14fc925fd50.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/logsdemonbot"><img src="https://telegra.ph/file/8e061706c2ecccf78bbbb.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
